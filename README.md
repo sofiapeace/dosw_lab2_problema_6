@@ -4,11 +4,11 @@
 - Gina Sofia Garcia Zapata
 - Juan Diego Patino Munoz
 
-## Patrón de Diseño## De Comportamiento
+## Patrón de Diseño
+De Comportamiento
 
 ## Patrón Utilizado
-
-## Chain of Responsibility (Cadena de Responsabilidad)
+Chain of Responsibility (Cadena de Responsabilidad)
 
 ## Justificación
 
